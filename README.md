@@ -1,3 +1,5 @@
+<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
+
 # Зміст розділу
 1. [Звернення до громадськості](#zvernennya)
 2. [Інструкція з використання](#instruction)
@@ -63,3 +65,7 @@
 
 <div id="hypercomments_widget"></div>
 <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+
+<div class="js-hypercomments-container">
+<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
+</div>
