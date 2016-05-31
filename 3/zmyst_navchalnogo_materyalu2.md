@@ -9,16 +9,14 @@
 
 <hr>
 <p><b>Зміст розділу:</b></p>
-<ul type="square">
-<li><a href="https://edera.gitbooks.io/mon-music/content/3/v%D1%83konavska_tvorcha_dyyalnist2.html">Виконавська і творча діяльність</a></li>
-<li><a href="https://edera.gitbooks.io/mon-music/content/3/osnovn%D1%83y_materyal_dlya_spr%D1%83mannya2.html">Основний матеріал для сприймання</a></li>
-<li><a href="https://edera.gitbooks.io/mon-music/content/3/dodatkov%D1%83_materyal_dlya_spr%D1%83mannya2.html">Додатковий матеріал для сприймання</a></li>
-<li><a href="https://edera.gitbooks.io/mon-music/content/3/varyat%D1%83vn%D1%83_materyal_dlya_spr%D1%83ymannya2.html">Варіативний матеріал для сприймання</a></li>
-<li><a href="https://edera.gitbooks.io/mon-music/content/3/osnovn%D1%83_materyal_dlya_v%D1%83konannya2.html">Основний матеріал для виконання</a></li>
-<li><a href="https://edera.gitbooks.io/mon-music/content/3/dodatkov%D1%83_materyal_dlya_v%D1%83konannya2.html">Додатковий матеріал для виконання</a></li>
-<li><a href="https://edera.gitbooks.io/mon-music/content/3/varyat%D1%83vn%D1%83_materyal_dlya_v%D1%83konannya2.html">Варіативний матеріал для виконання</a></li>
-<li><a href="https://edera.gitbooks.io/mon-music/content/3/materyal_dlya_muz%D1%83kuvannya_ta_v%D1%83konannya_v_rusy2.html">Матеріал для музикування та виконання в русі</a></li>
-</ul>
+   * [Виконавська і творча діяльність](vуkonavska_tvorcha_dyyalnist2.md)
+   * [Основний матеріал для сприймання](osnovnуy_materyal_dlya_sprуmannya2.md)
+   * [Додатковий матеріал для сприймання](dodatkovу_materyal_dlya_sprуmannya2.md)
+   * [Варіативний матеріал для сприймання](varyatуvnу_materyal_dlya_sprуymannya2.md)
+   * [Основний матеріал для  виконання](osnovnу_materyal_dlya_vуkonannya2.md)
+   * [Додатковий матеріал для виконання](dodatkovу_materyal_dlya_vуkonannya2.md)
+   * [Варіативний матеріал для виконання](varyatуvnу_materyal_dlya_vуkonannya2.md)
+   * [Матеріал для музикування та виконання в русі](materyal_dlya_muzуkuvannya_ta_vуkonannya_v_rusy2.md)
 
 <div class="js-hypercomments-container">
     <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>

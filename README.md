@@ -35,37 +35,26 @@
 
 Зміст програми {#programa}
 --
-1. <a href="https://edera.gitbooks.io/mon-music/content/poyasnyuvalna_zapyska.html">Пояснювальна записка</a>
-2. <a href="https://edera.gitbooks.io/mon-music/content/kharakterystyka_struktury_navchalnoyi_prohramy.html">Характеристика структури навчальної програми</a>
-3. <a href="https://edera.gitbooks.io/mon-music/content/osoblyvosti_orhanizatsiyi_navchalno_vykhovnoho_protsesu.html">Особливості організації навчально-виховного процесу</a>
-4. <a href="https://edera.gitbooks.io/mon-music/content/1/1_klas.html">1 клас</a>
-<ul type="disc">
-<li><a href="https://edera.gitbooks.io/mon-music/content/1/pro_shcho_rozpovidaie_muzyka.html">Про що розповідає музика</a></li>
-<li><a href="https://edera.gitbooks.io/mon-music/content/1/muzyka_navkolo_nas.html">Музика навколо нас</a></li>
-</ul>
-5. <a href="https://edera.gitbooks.io/mon-music/content/2/2_klas.html">2 клас</a>
-<ul type="disc">
-<li><a href="https://edera.gitbooks.io/mon-music/content/2/typy_muzyky.html">Типи музики</a></li>
-<li><a href="https://edera.gitbooks.io/mon-music/content/2/vyrazhalne_ta_zobrazhalne_v_muzytsi.html">Виражальне та зображальне в музиці</a></li>
-<li><a href="https://edera.gitbooks.io/mon-music/content/2/osnovni_muzychni_zhanry.html">Основні музичні жанри</a></li>
-<li><a href="https://edera.gitbooks.io/mon-music/content/2/mova_muzyky.html">Мова музики</a></li>
-</ul>
-6. <a href="https://edera.gitbooks.io/mon-music/content/3/3_klas.html">3 клас</a>
-<ul type="disc">
-<li><a href="https://edera.gitbooks.io/mon-music/content/3/osnovni_vlastyvosti_muzyky.html">Основні властивості музики: пісенність, танцювальність, маршовість</a></li>
-<li><a href="https://edera.gitbooks.io/mon-music/content/3/intonatsiia.html">Інтонація</a></li>
-<li><a href="https://edera.gitbooks.io/mon-music/content/3/rozvytok_muzyky.html">Розвиток музики</a></li>
-<li><a href="https://edera.gitbooks.io/mon-music/content/3/muzychna_forma.html">Музична форма</a></li>
-</ul>
-7. <a href="https://edera.gitbooks.io/mon-music/content/4/4_klas.html">4 клас</a>
-<ul type="disc">
-<li><a href="https://edera.gitbooks.io/mon-music/content/4/muzyka_moho_narodu.html">Музика мого народу</a></li>
-<li><a href="https://edera.gitbooks.io/mon-music/content/4/muzyka_yednae_svit.html">Музика єднає світ</a></li>
-</ul>
-
-<div id="hypercomments_widget"></div>
-<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
-
+* [Пояснювальна записка](poyasnyuvalna_zapyska.md)
+* [Характеристика структури навчальної програми](kharakterystyka_struktury_navchalnoyi_prohramy.md)
+* [Особливості організації навчально-виховного процесу](osoblyvosti_orhanizatsiyi_navchalno_vykhovnoho_protsesu.md)
+* [1 клас](1/1_klas.md)
+  * [Про що розповідає музика](1/pro_shcho_rozpovidaie_muzyka.md)
+  * [Музика навколо нас](1/muzyka_navkolo_nas.md)
+* [2 клас](2/2_klas.md)
+  * [Типи музики](2/typy_muzyky.md)
+  * [Виражальне та зображальне в музиці](2/vyrazhalne_ta_zobrazhalne_v_muzytsi.md)
+  * [Основні музичні жанри](2/osnovni_muzychni_zhanry.md)
+  * [Мова музики](2/mova_muzyky.md)
+* [3 клас](3/3_klas.md)
+  * [Основні властивості музики: пісенність, танцювальність, маршовість](3/osnovni_vlastyvosti_muzyky.md)
+  * [Інтонація](3/intonatsiia.md)
+  * [Розвиток музики](3/rozvytok_muzyky.md)
+  * [Музична форма](3/muzychna_forma.md)
+* [4 клас](4/4_klas.md)
+  * [Музика мого народу](4/muzyka_moho_narodu.md)
+  * [Музика єднає світ](4/muzyka_yednae_svit.md)
+  
 <div class="js-hypercomments-container">
 <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
 </div>

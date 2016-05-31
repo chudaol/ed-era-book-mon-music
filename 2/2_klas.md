@@ -7,12 +7,10 @@
 ##35 год. (1 год. на тиждень), з них 4 год. ‒ резервний час
 
 <p><b>Зміст розділу:</b></p>
-<ul type="disc">
-<li><a href="https://edera.gitbooks.io/mon-music/content/2/typy_muzyky.html">Типи музики</a></li>
-<li><a href="https://edera.gitbooks.io/mon-music/content/2/vyrazhalne_ta_zobrazhalne_v_muzytsi.html">Виражальне та зображальне в музиці</a></li>
-<li><a href="https://edera.gitbooks.io/mon-music/content/2/osnovni_muzychni_zhanry.html">Основні музичні жанри</a></li>
-<li><a href="https://edera.gitbooks.io/mon-music/content/2/mova_muzyky.html">Мова музики</a></li>
-</ul>
+  * [Типи музики](typy_muzyky.md)
+  * [Виражальне та зображальне в музиці](vyrazhalne_ta_zobrazhalne_v_muzytsi.md)
+  * [Основні музичні жанри](osnovni_muzychni_zhanry.md)
+  * [Мова музики](mova_muzyky.md)
 
 <div class="js-hypercomments-container">
     <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
