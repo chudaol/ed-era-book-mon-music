@@ -1,9 +1,9 @@
 # Summary
 
-1. [Вступна частина](README.md)
-2. [Пояснювальна записка](poyasnyuvalna_zapyska.md)
-3. [Характеристика структури навчальної програми](kharakterystyka_struktury_navchalnoyi_prohramy.md)
-4. [Особливості організації навчально-виховного процесу](osoblyvosti_orhanizatsiyi_navchalno_vykhovnoho_protsesu.md)
+* [Вступна частина](README.md)
+* [Пояснювальна записка](poyasnyuvalna_zapyska.md)
+* [Характеристика структури навчальної програми](kharakterystyka_struktury_navchalnoyi_prohramy.md)
+* [Особливості організації навчально-виховного процесу](osoblyvosti_orhanizatsiyi_navchalno_vykhovnoho_protsesu.md)
 * [1 клас](1/1_klas.md)
   * [Про що розповідає музика](1/pro_shcho_rozpovidaie_muzyka.md)
        * [Зміст навчального матеріалу](1/zmyst_navchalnogo_materyalu.md)
