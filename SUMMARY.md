@@ -1,9 +1,12 @@
-# Summary
+### Вступ
 
 * [Вступна частина](README.md)
 * [Пояснювальна записка](poyasnyuvalna_zapyska.md)
 * [Характеристика структури навчальної програми](kharakterystyka_struktury_navchalnoyi_prohramy.md)
 * [Особливості організації навчально-виховного процесу](osoblyvosti_orhanizatsiyi_navchalno_vykhovnoho_protsesu.md)
+
+### 1 Клас
+
 * [1 клас](1/1_klas.md)
   * [Про що розповідає музика](1/pro_shcho_rozpovidaie_muzyka.md)
        * [Зміст навчального матеріалу](1/zmyst_navchalnogo_materyalu.md)
@@ -27,6 +30,9 @@
            * [Варіативний матеріал для виконання](1/varyatуvnу_materyal_dlya_vуkonannya2.md)
            * [Матеріал для музикування та виконання в русі](1/materyal_dlya_muzуkuvannya_ta_vуkonannya_v_rusy2.md)
        * [Державні вимоги  щодо рівня загальноосвітньої підготовки учнів](1/derzhavny_vуmogу_schodo_ryvnya_zagalnoosvytnoy_pydgotovkу_uchnyv2.md)
+
+### 2 Клас
+
 * [2 клас](2/2_klas.md)
   * [Типи музики](2/typy_muzyky.md)
        * [Зміст навчального матеріалу](2/zmyst_navchalnogo_materyalu.md)
@@ -72,6 +78,9 @@
            * [Варіативний матеріал для виконання](2/varyatуvnу_materyal_dlya_vуkonannya4.md)
            * [Матеріал для музикування та виконання в русі](2/materyal_dlya_muzуkuvannya_ta_vуkonannya_v_rusy4.md)
        * [Державні вимоги  щодо рівня загальноосвітньої підготовки учнів](2/derzhavny_vуmogу_schodo_ryvnya_zagalnoosvytnoy_pydgotovkу_uchnyv4.md)
+
+### 3 Клас
+
 * [3 клас](3/3_klas.md)
   * [Основні властивості музики: пісенність, танцювальність, маршовість](3/osnovni_vlastyvosti_muzyky.md)
        * [Зміст навчального матеріалу](3/zmyst_navchalnogo_materyalu.md)
@@ -117,6 +126,9 @@
            * [Варіативний матеріал для виконання](3/varyatуvnу_materyal_dlya_vуkonannya4.md)
            * [Матеріал для музикування та виконання в русі](3/materyal_dlya_muzуkuvannya_ta_vуkonannya_v_rusy4.md)
        * [Державні вимоги  щодо рівня загальноосвітньої підготовки учнів](3/derzhavny_vуmogу_schodo_ryvnya_zagalnoosvytnoy_pydgotovkу_uchnyv4.md)
+
+### 4 Клас
+
 * [4 клас](4/4_klas.md)
   * [Музика мого народу](4/muzyka_moho_narodu.md)
        * [Зміст навчального матеріалу](4/zmyst_navchalnogo_materyalu.md)
