@@ -1,6 +1,7 @@
 ### Вступ
 
 * [Вступна частина](README.md)
+* [Зміст програми](zmist.md)
 * [Пояснювальна записка](poyasnyuvalna_zapyska.md)
 * [Характеристика структури навчальної програми](kharakterystyka_struktury_navchalnoyi_prohramy.md)
 * [Особливості організації навчально-виховного процесу](osoblyvosti_orhanizatsiyi_navchalno_vykhovnoho_protsesu.md)
